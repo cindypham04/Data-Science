@@ -10,6 +10,7 @@
 
 - [Statistics Playlist 1](https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1) by Professor Leonard
 - [Statistics](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV) by The Organic Chemistry
+- [Statistical Learning](https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e) by Professor Trevor Hastie and Professor Robert Tibshirani
 
 ## 💻 Web Sites
 
